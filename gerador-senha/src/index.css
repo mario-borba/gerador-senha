@@ -41,7 +41,7 @@ h1 {
   color: #f4f4f4;
 }
 
-button {
+button, input {
   margin: 2rem;
   border-radius: 8px;
   border: 1px solid transparent;
